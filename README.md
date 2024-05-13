@@ -5,7 +5,7 @@ This project explored Airbnb listings in Milan, Italy, with a focus on Municipal
 
 1. **M7 vs. Milan:** We compared Airbnb data for M7 with the rest of Milan to understand its unique characteristics.
 
-2.**Unveiling M7's Reputation:** We analyzed general reviews for M7, gaining insights into its overall reputation among guests.
+2. **Unveiling M7's Reputation:** We analyzed general reviews for M7, gaining insights into its overall reputation among guests.
 
 3. **The Heart of M7:**  Using Gephi, we created a sentiment/topic network. This network identified keywords frequently used in M7 reviews, allowing us to develop a compelling narrative about the  area.
 
